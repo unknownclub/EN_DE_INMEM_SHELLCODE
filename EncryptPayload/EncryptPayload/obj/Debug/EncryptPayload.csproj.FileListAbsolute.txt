@@ -1,0 +1,6 @@
+C:\Users\driller\source\repos\EncryptPayload\EncryptPayload\bin\Debug\EncryptPayload.exe
+C:\Users\driller\source\repos\EncryptPayload\EncryptPayload\bin\Debug\EncryptPayload.pdb
+C:\Users\driller\source\repos\EncryptPayload\EncryptPayload\obj\Debug\EncryptPayload.csprojAssemblyReference.cache
+C:\Users\driller\source\repos\EncryptPayload\EncryptPayload\obj\Debug\EncryptPayload.csproj.CoreCompileInputs.cache
+C:\Users\driller\source\repos\EncryptPayload\EncryptPayload\obj\Debug\EncryptPayload.exe
+C:\Users\driller\source\repos\EncryptPayload\EncryptPayload\obj\Debug\EncryptPayload.pdb

@@ -1,0 +1,6 @@
+C:\Users\driller\source\repos\PayloadDecryption\PayloadDecryption\bin\Debug\PayloadDecryption.exe
+C:\Users\driller\source\repos\PayloadDecryption\PayloadDecryption\bin\Debug\PayloadDecryption.pdb
+C:\Users\driller\source\repos\PayloadDecryption\PayloadDecryption\obj\Debug\PayloadDecryption.csprojAssemblyReference.cache
+C:\Users\driller\source\repos\PayloadDecryption\PayloadDecryption\obj\Debug\PayloadDecryption.csproj.CoreCompileInputs.cache
+C:\Users\driller\source\repos\PayloadDecryption\PayloadDecryption\obj\Debug\PayloadDecryption.exe
+C:\Users\driller\source\repos\PayloadDecryption\PayloadDecryption\obj\Debug\PayloadDecryption.pdb
